@@ -1,0 +1,37 @@
+# 🌠 2026 Reset Vault – Reflect on 2025, Realign & Rise
+
+## About
+The **2026 Reset Vault** is a Python tool that helps users reflect on their experiences in 2025, evaluate their habits, and plan intentionally for 2026. It encourages clarity, calm, and growth while promoting self-awareness and progress.
+
+## How It Works
+- Starts with a **mental state and calm check**  
+- Guides users through **reflection on wins, challenges, and habits from 2025**  
+- Includes a **Habit Audit** to identify habits that slowed them down or helped them grow, and suggests improvements  
+- Users select a **focus word** for 2026 and complete an **identity statement**  
+- Helps users plan a **priority goal**, **weekly reset ritual**, and **affirmations**  
+- Displays a **final summary** with all reflections, plans, and motivational messages  
+
+## Features
+- Mental and emotional check-in  
+- Reflection on personal wins and challenges  
+- 2025 Habit Audit with improvement suggestions  
+- Carry / Drop / Transform framework  
+- Focus word and identity statement for 2026  
+- Priority goal planning and weekly ritual  
+- Random motivational affirmations  
+
+## Technologies Used
+- Python 3  
+- Standard Library (`random`)  
+
+## Who Can Use It
+- Students reflecting on their academic year  
+- Anyone wanting to start 2026 with clarity and calm  
+- Beginners exploring Python projects  
+- People who like guided reflection and goal planning  
+
+## Why Use It
+The tool is simple, beginner-friendly, and interactive. It helps users process the past year, identify habits to keep or improve, and enter the new year with a clear, calm, and actionable plan.
+
+## Creator
+- **Vicky Okafor**
